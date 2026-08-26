@@ -1,0 +1,48 @@
+file name Capital
+file extension .jsx -> javascript +xml(html)
+component name Capital
+file name & component name will be Same
+return html code -> single parent <> ..... </>
+export or export default
+
+input , Input
+
+
+
+react project setup 
+
+node js download & install
+
+cli-terminal
+node -v 
+npm -v
+
+npm create vite@latest "project_name"
+
+framework - react
+language - > javascript
+
+
+ctrl + c for stop the server
+
+
+cd "project_name"
+
+
+
+
+delete 
+public - delete
+src/assets
+src/App.css
+
+clean
+
+index.css
+App.jsx
+
+
+main.jsx  -> remove strict mode 
+
+
+https://chatgpt.com/share/6a8ee605-abd4-83ee-b6aa-7b828cb8437b
