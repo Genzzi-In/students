@@ -11,7 +11,7 @@ export default function Product({product}) {
 
       <h2>{product.name}</h2>
 
-      <p>{product.description}</p>
+      <p>{product?.description ? product.description : "Good Item"}</p>
 
       <p>Category: {product.category}</p>
 

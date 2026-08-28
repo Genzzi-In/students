@@ -1,6 +1,23 @@
 *{
     margin: 0;padding: 0;
 }
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-weight: bold;
+    padding: 20px 20px;
+    margin-bottom: 10px;
+    background-color: gainsboro;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    text-decoration: underline;
+    color: blue;
+}
 .heading {
     color: blue;
     text-align: center;
